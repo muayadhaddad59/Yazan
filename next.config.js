@@ -1,4 +1,13 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const repo = "Yazan";
 
-module.exports = nextConfig
+const nextConfig = {
+    output: "export",
+    images: {
+        unoptimized: true,
+    },
+    basePath: `/${repo}`,
+    assetPrefix: `/${repo}/`,
+};
+
+export default nextConfig;
