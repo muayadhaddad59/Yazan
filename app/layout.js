@@ -1,8 +1,8 @@
 import './globals.css'
 
 export const metadata = {
-  title: "Abo Al Yazan Cut | Classic Barbershop",
-  description: "Traditional barbering. Timeless style. Est. 2026.",
+  title: "The Sterling Cut | Classic Barbershop",
+  description: "Traditional barbering. Timeless style. Est. 1987.",
 }
 
 export default function RootLayout({ children }) {

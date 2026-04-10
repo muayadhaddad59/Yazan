@@ -35,7 +35,7 @@ export default function Hero() {
         {/* EST badge */}
         <div className="inline-flex items-center gap-3 mb-8 animate-fadeIn" style={{ animationDelay: '0.2s', opacity: 0, animationFillMode: 'forwards' }}>
           <span className="w-12 h-px bg-[#C9943A]/60" />
-          <span className="font-body text-[#C9943A] text-xs tracking-[0.4em] uppercase">Est. 1987</span>
+          <span className="font-body text-[#C9943A] text-xs tracking-[0.4em] uppercase">Est. 2026</span>
           <span className="w-12 h-px bg-[#C9943A]/60" />
         </div>
 
@@ -44,7 +44,7 @@ export default function Hero() {
           className="font-display text-cream leading-none mb-2 animate-fadeInUp"
           style={{ fontSize: 'clamp(3.5rem, 10vw, 8rem)', animationDelay: '0.4s', opacity: 0, animationFillMode: 'forwards' }}
         >
-          The Sterling
+          Abo Al Yazan
         </h1>
         <h2
           className="font-accent text-[#C9943A] tracking-[0.3em] mb-6 animate-fadeInUp"

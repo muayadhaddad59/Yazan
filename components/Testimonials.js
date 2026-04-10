@@ -1,6 +1,6 @@
 const testimonials = [
   {
-    name: 'Robert A.',
+    name: 'Yousef A.',
     since: 'Client since 2005',
     quote: 'Edmund has been cutting my hair for 20 years. There is no finer craftsman in the city — every visit feels like stepping back into a golden era of barbering.',
     stars: 5,

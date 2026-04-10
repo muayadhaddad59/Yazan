@@ -1,6 +1,6 @@
 const barbers = [
   {
-    name: 'Edmund Sterling',
+    name: 'Abdull',
     role: 'Master Barber & Founder',
     exp: '35 years experience',
     specialty: 'Classic cuts, straight-razor shaves',
@@ -8,7 +8,7 @@ const barbers = [
     color: '#8B3A1A',
   },
   {
-    name: 'Marcus Holloway',
+    name: 'Mohammad',
     role: 'Senior Barber',
     exp: '18 years experience',
     specialty: 'Fades, beard sculpting',
@@ -16,7 +16,7 @@ const barbers = [
     color: '#6B4F2A',
   },
   {
-    name: 'James Whitfield',
+    name: 'Muayad',
     role: 'Barber',
     exp: '8 years experience',
     specialty: 'Modern classics, hot towel shaves',
